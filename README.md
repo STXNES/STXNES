@@ -18,7 +18,10 @@
   </a>
 </p>
 <hr>
-👨‍💻 Professional Summary
+
+---
+
+## 👨‍💻 Professional Summary
 
 I'm a **Junior Systems Administrator** with hands-on experience building and managing **Windows Server environments** through structured home labs.
 
