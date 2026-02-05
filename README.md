@@ -1,4 +1,3 @@
-<!-- ===== TOP BANNER (Dynamic) ===== -->
 <p align="center">
   <a href="https://github.com/STXNES">
     <img
@@ -28,9 +27,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=2&section=header&text=&fontSize=0" />
 </p>
 
-<!-- ===== END TOP BANNER ===== -->
-
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
 I'm a **Junior Systems Administrator** with hands-on experience building and managing **Windows Server environments** through structured home labs.
 
@@ -87,12 +84,5 @@ A complete **Active Directory lab environment** designed to simulate a real corp
 ## 🌍 Languages
 
 - Spanish: Native  
-- English: Intermediate (technical conversational level)
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/axro
-- GitHub: https://github.com/STXNES
+- English: B2 Intermediate
 
