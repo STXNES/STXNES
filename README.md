@@ -25,12 +25,12 @@
 I'm a **Junior Systems Administrator** with hands-on experience building and managing **Windows Server environments** through structured home labs.
 
 I focus on:
-- Active Directory Domain Services (AD DS)
-- User and computer management
-- Group Policy Objects (GPOs)
-- DNS and basic network services
-- Virtualization with VMware
-- Foundational cloud concepts (Azure)
+- 🧩 **Active Directory Domain Services (AD DS)**
+- 👥 **User and computer management**
+- 📑 **Group Policy Objects (GPOs)**
+- 🌐 **DNS and basic network services**
+- 🧪 **Virtualization with VMware**
+- ☁️ **Foundational cloud concepts (Azure)**
 
 Currently strengthening my skills through **realistic lab projects**, documentation, and continuous learning.
 
@@ -38,12 +38,46 @@ Currently strengthening my skills through **realistic lab projects**, documentat
 
 ## 🛠️ Technical Skills
 
-- **Operating Systems:** Windows Server, Windows 10/11, Linux (basic)
-- **Directory Services:** AD DS, Users, OUs, Groups, GPOs, DNS, DHCP
-- **Virtualization:** VMware Workstation, Hyper-V (basic)
-- **Cloud:** Microsoft Azure (VMs, networking basics, RBAC fundamentals)
-- **Scripting & Automation:** PowerShell (basic automation)
-- **Networking:** TCP/IP fundamentals, DNS, DHCP
+### 🖥️ Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🗂️ Directory Services
+<p>
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPOs-4B4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-005C99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-005C99?style=for-the-badge" />
+</p>
+
+### 🧪 Virtualization
+<p>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_RBAC-004E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure_VMs-004E8C?style=for-the-badge" />
+</p>
+
+### ⚙️ Scripting & Automation
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+### 🌐 Networking
+<p>
+  <img src="https://img.shields.io/badge/TCP/IP-006699?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-005C99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-005C99?style=for-the-badge" />
+</p>
+
 
 ---
 
