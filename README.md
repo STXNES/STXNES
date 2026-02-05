@@ -1,7 +1,7 @@
 <!-- ===== TOP BANNER (Dynamic) ===== -->
 <p align="center">
   <a href="https://github.com/STXNES">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Axell+Rojas👋;Junior+Systems+Administrator💻;San+Jos%C3%A9%2C+Costa+Rica🌎;Windows+Server+%7C+AD+DS+%7C+GPOs+%7C+DNS%2FDHCP📌;Reliable+support+%26+practical+IT+automation🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Axell+Rojas;'👋';Junior+Systems+Administrator💻;San+Jos%C3%A9%2C+Costa+Rica🌎;Windows+Server+%7C+AD+DS+%7C+GPOs+%7C+DNS%2FDHCP📌;Reliable+support+%26+practical+IT+automation🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=2&section=header&text=&fontSize=0" />
 </p>
 <!-- ===== END TOP BANNER ===== -->
-
 ---
 
 ## 👨‍💻 About Me
