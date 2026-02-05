@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://github.com/STXNES">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Axell+Rojas+%F0%9F%91%8B;Junior+Systems+Administrator+%F0%9F%92%BB;San+Jos%C3%A9%2C+Costa+Rica+%F0%9F%8C%8E;Windows+Server+%7C+AD+DS+%7C+GPOs+%7C+DNS%2FDHCP+%F0%9F%93%8C;Reliable+support+%26+practical+IT+automation+%F0%9F%9A%80;Continuous+learning+%26+IT+growth"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Axell+Rojas+%F0%9F%91%8B;Junior+Systems+Administrator+%F0%9F%92%BB;San+Jos%C3%A9%2C+Costa+Rica+%F0%9F%8C%8E;Windows+Server+%7C+AD+DS+%7C+GPOs+%7C+DNS%2FDHCP+%F0%9F%93%8C;Reliable+support+%26+practical+IT+automation+%F0%9F%9A%80" alt="Typing SVG"
     />
   </a>
 </p>
