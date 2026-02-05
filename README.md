@@ -1,4 +1,7 @@
 <!-- ===== TOP BANNER (Dynamic) ===== -->
+
+---
+
 <p align="center">
   <a href="https://github.com/STXNES">
     <img
@@ -27,6 +30,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=2&section=header&text=&fontSize=0" />
 </p>
+
+---
+
 <!-- ===== END TOP BANNER ===== -->
 
 
