@@ -39,23 +39,32 @@
 ## 🖥️ System Status & Specs
 
 ```text
-axell@stxnes
----------------------------------------------------------------------------------------------------
-. OS: ...................... Windows Server 2022, Linux, Windows 11, iOS
-. Role: .................... IT & Systems Administrator | Applied AI & Automation Specialist
-. Education: ............... B.S. Systems Engineering @ Fidélitas University (In Progress)
-. Kernel/Focus: ............ IT Infrastructure + Agentic AI (LangChain, LangGraph, RAG, n8n)
-. IDE/Tools: ............... VS Code, VMware ESXi/Workstation, Hyper-V, n8n, Docker, Intune
-. Languages.Programming: ... Python, C#, SQL (PostgreSQL), PowerShell, Bash
-. Languages.Web & Data: .... HTML5, CSS3, JSON, REST APIs
-. Languages.Real: .......... Spanish (Native), English (B1 Intermediate / Technical Proficiency)
-. Certifications: .......... SC-300, MD-102, Cisco CCNA, ONE Tech AI Builder, Google Cloud, CompTIA A+
-. Location: ................ Naranjo, Costa Rica
-
-- Contact -----------------------------------------------------------------------------------------
-. Email: ................... axelry2402@gmail.com
-. LinkedIn: ................ linkedin.com/in/axro
-. GitHub: .................. github.com/STXNES
+                                         axell@stxnes -----------------------------------------
+                          .  ..          . OS: ................ Windows Server, Linux, Win11, iOS
+                ..        .......        . Role: .............. Systems Administrator & AI Specialist
+               :===+=       ::::::.      . Education: ......... B.S. Systems Engineering @ Fidélitas
+              .:+**##+.     .:-:::-:     . Kernel/Focus: ...... IT Infra + Agentic AI (RAG, LangGraph)
+             .-+#@@@%#+.      :------    . IDE/Tools: ......... VS Code, VMware, Hyper-V, n8n, Docker
+              .::=*#*--=:      -----=-   . Lang.Coding: ....... Python, C#, SQL, PowerShell, Bash
+              :..  +%*=::      .-=--==   . Lang.Web/Data: ..... HTML5, CSS3, JSON, REST APIs
+              :+*: :##%%#:      :=====   . Lang.Real: ......... Spanish (Native), English (B1/Tech)
+             .-+=.  ++###*      :-====   
+             .:+#+=+%%%@@@=     :--===   - Certifications -------------------------------------
+              :*%*---+++#%+      --===   . SC-300: ............ Identity & Access Admin (Completed)
+               :=- :*#%#%%*      -====   . MD-102: ............ Endpoint Admin (Completed)
+                :==+*%%@%%=      -====   . Cisco: ............. CCNA (Completed)
+                 .:-*@@@%*       :-==-   . ONE/Oracle: ........ Tech AI Builder (Completed)
+  .                .-=-=+*       :-=--   . CompTIA: ........... A+ Professional Prep (Completed)
+...                    -#@:      :----   . Cloud: ............. Google Cloud Foundations (Completed)
+...                 -*%%@*       .---:   
+....              .#@@#=.       .---::   - Contact --------------------------------------------
+ ..:.              --.         :---::.   . Email: ............. axelry2402@gmail.com
+ ..::.                          ..::.    . LinkedIn: .......... linkedin.com/in/axro
+  .:::.                                  . GitHub: ............ github.com/STXNES
+   .:::                                  ------------------------------------------------------
+     .                                   
+                                         
+                                         
 ```
 
 <br/>
