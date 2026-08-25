@@ -8,15 +8,13 @@
   </a>
 </p>
 
-<div align="center">
-
-```text
+<p align="center">
+  <pre align="center" style="font-family: monospace; display: inline-block; text-align: left;">
 ┌─ I CAN HELP WITH ─────────────────────────────────────────────────────────────────────────────┐
-│ Active Directory & WinServer · Applied AI & RAG Agents · n8n & Process Automation · Intune   │
+│ Active Directory &amp; WinServer · Applied AI &amp; RAG Agents · n8n &amp; Process Automation · Intune   │
 └───────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+  </pre>
+</p>
 
 <br/>
 
