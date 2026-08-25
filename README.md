@@ -20,17 +20,11 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/axro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" alt="Social Links" height="42" />
   </a>
-  <a href="https://github.com/STXNES" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:axelry2402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+</p>
 
 <br/>
 
@@ -76,36 +70,42 @@
   <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; background-color: #0d1117;">
     <thead>
       <tr style="background-color: #161b22; height: 36px; border-bottom: 1px solid #30363d;">
-        <th align="left" style="padding-left: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: normal; color: #8b949e;">
+        <th align="left" style="padding-left: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: normal; color: #8b949e;">
           <span style="color: #ff5f56;">🔴</span>&nbsp;<span style="color: #ffbd2e;">🟡</span>&nbsp;<span style="color: #27c93f;">🟢</span>
-          &nbsp;&nbsp;&nbsp;&nbsp;<b>axell@stxnes-macbook</b> &nbsp;&mdash;&nbsp; zsh &nbsp;&mdash;&nbsp; 80x24
+          &nbsp;&nbsp;&nbsp;&nbsp;<b>/stxnes $ cat skills.py</b>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 16px; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.6;">
-          <span style="color: #2f81f7;">axell@stxnes-macbook</span> <span style="color: #d2a8ff;">~</span> <span style="color: #79c0ff;">%</span> <b>./get_technical_overview.sh</b><br/><br/>
-          <span style="color: #58a6ff;">[+] LOADING TECHNICAL PROFILE OVERVIEW...</span><br/>
-          <span style="color: #8b949e;">--------------------------------------------------------------------------------</span><br/><br/>
-          <b style="color: #79c0ff;">❯ SERVER & CORE INFRASTRUCTURE</b><br/>
-          &nbsp;&nbsp;• Windows Server 2022 &nbsp;|&nbsp; Active Directory (AD DS) &nbsp;|&nbsp; Group Policy Objects (GPOs)<br/>
-          &nbsp;&nbsp;• Organizational Units (OUs) &nbsp;|&nbsp; DNS & DHCP Services &nbsp;|&nbsp; Linux Fundamentals<br/><br/>
-          <b style="color: #79c0ff;">❯ IDENTITY & ENDPOINT SECURITY</b><br/>
-          &nbsp;&nbsp;• Microsoft Entra ID &nbsp;|&nbsp; Microsoft Intune &nbsp;|&nbsp; Centralized Device Management<br/>
-          &nbsp;&nbsp;• SC-300: Identity & Access Administrator (Completed)<br/>
-          &nbsp;&nbsp;• MD-102: Endpoint Administrator (Completed)<br/><br/>
-          <b style="color: #79c0ff;">❯ VIRTUALIZATION & CLOUD INFRASTRUCTURE</b><br/>
-          &nbsp;&nbsp;• VMware ESXi & Workstation Pro &nbsp;|&nbsp; Hyper-V Virtualization<br/>
-          &nbsp;&nbsp;• Microsoft Azure (AZ-900 Prep) &nbsp;|&nbsp; Google Cloud Foundations &nbsp;|&nbsp; OCI<br/><br/>
-          <b style="color: #79c0ff;">❯ APPLIED AI & WORKFLOW AUTOMATION</b><br/>
-          &nbsp;&nbsp;• Retrieval-Augmented Generation (RAG Architecture)<br/>
-          &nbsp;&nbsp;• Intelligent Agents (LangChain, LangGraph) &nbsp;|&nbsp; FAISS Vector Database<br/>
-          &nbsp;&nbsp;• n8n Process Automation &nbsp;|&nbsp; REST API Integrations<br/><br/>
-          <b style="color: #79c0ff;">❯ SCRIPTING & DEVELOPMENT</b><br/>
-          &nbsp;&nbsp;• Python &nbsp;|&nbsp; PowerShell &nbsp;|&nbsp; C# &nbsp;|&nbsp; SQL (PostgreSQL) &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Git/GitHub<br/>
-          <span style="color: #8b949e;">--------------------------------------------------------------------------------</span><br/>
-          <span style="color: #56d364;">[✓] TECHNICAL PROFILE LOADED SUCCESSFULLY.</span>
+        <td style="padding: 16px; font-family: 'Fira Code', 'Consolas', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+          <span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;<span style="color: #79c0ff;">"type"</span>: <span style="color: #a5d6ff;">"Technical Skills & Profile Overview"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #79c0ff;">"engineer"</span>: <span style="color: #a5d6ff;">"Axell Rojas"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Naranjo, Costa Rica"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #79c0ff;">"categories"</span>: [<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Server & Core Infrastructure"</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Windows Server 2022"</span>, <span style="color: #a5d6ff;">"Active Directory (AD DS)"</span>, <span style="color: #a5d6ff;">"Group Policy Objects (GPOs)"</span>, <span style="color: #a5d6ff;">"Organizational Units (OUs)"</span>, <span style="color: #a5d6ff;">"DNS & DHCP"</span>, <span style="color: #a5d6ff;">"Linux Fundamentals"</span>]<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Identity & Endpoint Security"</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Microsoft Entra ID"</span>, <span style="color: #a5d6ff;">"Microsoft Intune"</span>, <span style="color: #a5d6ff;">"SC-300 Identity Admin (Completed)"</span>, <span style="color: #a5d6ff;">"MD-102 Endpoint Admin (Completed)"</span>, <span style="color: #a5d6ff;">"Device Management"</span>]<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Virtualization & Cloud"</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"VMware ESXi & Workstation Pro"</span>, <span style="color: #a5d6ff;">"Hyper-V"</span>, <span style="color: #a5d6ff;">"Microsoft Azure (AZ-900 Prep)"</span>, <span style="color: #a5d6ff;">"Google Cloud Foundations"</span>, <span style="color: #a5d6ff;">"OCI"</span>]<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Applied AI & Workflow Automation"</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Retrieval-Augmented Generation (RAG)"</span>, <span style="color: #a5d6ff;">"LangChain & LangGraph"</span>, <span style="color: #a5d6ff;">"n8n Automation"</span>, <span style="color: #a5d6ff;">"FAISS Vector Store"</span>, <span style="color: #a5d6ff;">"REST API Integrations"</span>]<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Scripting & Productivity"</span>,<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"PowerShell"</span>, <span style="color: #a5d6ff;">"C#"</span>, <span style="color: #a5d6ff;">"SQL (PostgreSQL)"</span>, <span style="color: #a5d6ff;">"Docker"</span>, <span style="color: #a5d6ff;">"Git & GitHub"</span>, <span style="color: #a5d6ff;">"HTML5 & CSS3"</span>]<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span><br/>
+          &nbsp;&nbsp;]<br/>
+          <span style="color: #ff7b72;">}</span>
         </td>
       </tr>
     </tbody>
@@ -198,22 +198,35 @@
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=STXNES&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=STXNES&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=STXNES&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
 <br/>
 
 ---
 
-## 📬 Connect & Resume
+## 📬 Employer & Recruiter Corner
 
-> [!NOTE]
-> **Looking to connect or review my full experience?**
-> Feel free to reach out via LinkedIn or email!
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #7c3aed; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #161b22 0%, #1a1636 100%);">
+    <tr>
+      <td style="padding: 20px; text-align: left;">
+        <h3 style="margin: 0 0 8px 0; color: #a78bfa; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+          💼 Looking for my Resume / Curriculum Vitae?
+        </h3>
+        <p style="margin: 0 0 16px 0; color: #c9d1d9; font-size: 14px; line-height: 1.5;">
+          You can view or download the full professional CV of <b>Axell Rojas</b> (IT & Systems Administrator | Applied AI & RAG Specialist) directly below:
+        </p>
+        <a href="https://github.com/STXNES/STXNES/blob/main/AXELL_ROJAS_CV.md" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/📄_View_Complete_Resume_(Markdown)-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📄 **LinkedIn**: [linkedin.com/in/axro](https://www.linkedin.com/in/axro)
-- ✉️ **Email**: [axelry2402@gmail.com](mailto:axelry2402@gmail.com)
-- 🐙 **GitHub Profile**: [github.com/STXNES](https://github.com/STXNES)
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00C2FF,100:0078D6&height=120&section=footer" width="100%" />
