@@ -1,0 +1,113 @@
+<svg fill="none" width="800" height="380" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .window {
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+          font-family: 'Fira Code', 'Consolas', monospace;
+          color: #c9d1d9;
+          padding: 0;
+          overflow: hidden;
+          width: 796px;
+          height: 376px;
+          box-sizing: border-box;
+        }
+        .header {
+          background-color: #161b22;
+          border-bottom: 1px solid #30363d;
+          padding: 10px 14px;
+          display: flex;
+          align-items: center;
+        }
+        .dot {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          display: inline-block;
+          margin-right: 8px;
+        }
+        .dot-red { background-color: #ff5f56; }
+        .dot-yellow { background-color: #ffbd2e; }
+        .dot-green { background-color: #27c93f; }
+        .title {
+          color: #8b949e;
+          font-size: 13px;
+          margin-left: 12px;
+          font-weight: 600;
+        }
+        .body {
+          padding: 18px 22px;
+          font-size: 13px;
+          line-height: 1.6;
+        }
+        .prompt { color: #2f81f7; font-weight: bold; }
+        .path { color: #d2a8ff; }
+        .cmd { color: #79c0ff; font-weight: bold; }
+        .comment { color: #8b949e; }
+        .key { color: #79c0ff; font-weight: bold; }
+        .val { color: #a5d6ff; }
+        .bracket { color: #ff7b72; }
+        .success { color: #56d364; font-weight: bold; }
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 15px;
+          background-color: #58a6ff;
+          animation: blink 1s infinite;
+          vertical-align: middle;
+          margin-left: 4px;
+        }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+        .line1 { opacity: 0; animation: fadeIn 0.4s 0.2s forwards; }
+        .line2 { opacity: 0; animation: fadeIn 0.4s 0.7s forwards; }
+        .line3 { opacity: 0; animation: fadeIn 0.4s 1.2s forwards; }
+        .line4 { opacity: 0; animation: fadeIn 0.4s 1.7s forwards; }
+        .line5 { opacity: 0; animation: fadeIn 0.4s 2.2s forwards; }
+        .line6 { opacity: 0; animation: fadeIn 0.4s 2.7s forwards; }
+        .line7 { opacity: 0; animation: fadeIn 0.4s 3.2s forwards; }
+        .line8 { opacity: 0; animation: fadeIn 0.4s 3.7s forwards; }
+
+        @keyframes fadeIn { to { opacity: 1; } }
+      </style>
+
+      <div class="window">
+        <div class="header">
+          <span class="dot dot-red"></span>
+          <span class="dot dot-yellow"></span>
+          <span class="dot dot-green"></span>
+          <span class="title">stxnes@macbook-pro ~ % cat skills.json</span>
+        </div>
+        <div class="body">
+          <div class="line1">
+            <span class="prompt">stxnes@macbook-pro</span> <span class="path">~</span> % <span class="cmd">cat skills.json</span>
+          </div>
+          <div class="line2">
+            <span class="bracket">{</span>
+          </div>
+          <div class="line3">
+            &nbsp;&nbsp;<span class="key">"Server &amp; Infrastructure"</span>: [<span class="val">"Windows Server 2022"</span>, <span class="val">"Active Directory (AD DS)"</span>, <span class="val">"GPOs"</span>, <span class="val">"OUs"</span>, <span class="val">"DNS/DHCP"</span>, <span class="val">"Linux"</span>],
+          </div>
+          <div class="line4">
+            &nbsp;&nbsp;<span class="key">"Identity &amp; Endpoints"</span>: [<span class="val">"Entra ID"</span>, <span class="val">"Intune"</span>, <span class="val">"SC-300 (Completed)"</span>, <span class="val">"MD-102 (Completed)"</span>, <span class="val">"Device Mgmt"</span>],
+          </div>
+          <div class="line5">
+            &nbsp;&nbsp;<span class="key">"Virtualization &amp; Cloud"</span>: [<span class="val">"VMware ESXi/Workstation"</span>, <span class="val">"Hyper-V"</span>, <span class="val">"Azure (AZ-900 prep)"</span>, <span class="val">"GCP"</span>, <span class="val">"OCI"</span>],
+          </div>
+          <div class="line6">
+            &nbsp;&nbsp;<span class="key">"Applied AI &amp; Workflows"</span>: [<span class="val">"RAG Architecture"</span>, <span class="val">"LangChain"</span>, <span class="val">"LangGraph"</span>, <span class="val">"n8n"</span>, <span class="val">"FAISS"</span>, <span class="val">"REST APIs"</span>],
+          </div>
+          <div class="line7">
+            &nbsp;&nbsp;<span class="key">"Scripting &amp; Tools"</span>: [<span class="val">"Python"</span>, <span class="val">"PowerShell"</span>, <span class="val">"C#"</span>, <span class="val">"PostgreSQL"</span>, <span class="val">"Docker"</span>, <span class="val">"Git/GitHub"</span>]
+          </div>
+          <div class="line8">
+            <span class="bracket">}</span> <span class="success">[✓] LOADED</span><span class="cursor"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

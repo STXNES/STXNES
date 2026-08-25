@@ -66,51 +66,9 @@
 
 ## ⚡ Technical Profile Overview
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; background-color: #0d1117;">
-    <thead>
-      <tr style="background-color: #161b22; height: 36px; border-bottom: 1px solid #30363d;">
-        <th align="left" style="padding-left: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: normal; color: #8b949e;">
-          <span style="color: #ff5f56;">🔴</span>&nbsp;<span style="color: #ffbd2e;">🟡</span>&nbsp;<span style="color: #27c93f;">🟢</span>
-          &nbsp;&nbsp;&nbsp;&nbsp;<b>/stxnes $ cat skills.py</b>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 16px; font-family: 'Fira Code', 'Consolas', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.6;">
-          <span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;<span style="color: #79c0ff;">"type"</span>: <span style="color: #a5d6ff;">"Technical Skills & Profile Overview"</span>,<br/>
-          &nbsp;&nbsp;<span style="color: #79c0ff;">"engineer"</span>: <span style="color: #a5d6ff;">"Axell Rojas"</span>,<br/>
-          &nbsp;&nbsp;<span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Naranjo, Costa Rica"</span>,<br/>
-          &nbsp;&nbsp;<span style="color: #79c0ff;">"categories"</span>: [<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Server & Core Infrastructure"</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Windows Server 2022"</span>, <span style="color: #a5d6ff;">"Active Directory (AD DS)"</span>, <span style="color: #a5d6ff;">"Group Policy Objects (GPOs)"</span>, <span style="color: #a5d6ff;">"Organizational Units (OUs)"</span>, <span style="color: #a5d6ff;">"DNS & DHCP"</span>, <span style="color: #a5d6ff;">"Linux Fundamentals"</span>]<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Identity & Endpoint Security"</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Microsoft Entra ID"</span>, <span style="color: #a5d6ff;">"Microsoft Intune"</span>, <span style="color: #a5d6ff;">"SC-300 Identity Admin (Completed)"</span>, <span style="color: #a5d6ff;">"MD-102 Endpoint Admin (Completed)"</span>, <span style="color: #a5d6ff;">"Device Management"</span>]<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Virtualization & Cloud"</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"VMware ESXi & Workstation Pro"</span>, <span style="color: #a5d6ff;">"Hyper-V"</span>, <span style="color: #a5d6ff;">"Microsoft Azure (AZ-900 Prep)"</span>, <span style="color: #a5d6ff;">"Google Cloud Foundations"</span>, <span style="color: #a5d6ff;">"OCI"</span>]<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Applied AI & Workflow Automation"</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Retrieval-Augmented Generation (RAG)"</span>, <span style="color: #a5d6ff;">"LangChain & LangGraph"</span>, <span style="color: #a5d6ff;">"n8n Automation"</span>, <span style="color: #a5d6ff;">"FAISS Vector Store"</span>, <span style="color: #a5d6ff;">"REST API Integrations"</span>]<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">{</span><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Scripting & Productivity"</span>,<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #79c0ff;">"items"</span>: [<span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"PowerShell"</span>, <span style="color: #a5d6ff;">"C#"</span>, <span style="color: #a5d6ff;">"SQL (PostgreSQL)"</span>, <span style="color: #a5d6ff;">"Docker"</span>, <span style="color: #a5d6ff;">"Git & GitHub"</span>, <span style="color: #a5d6ff;">"HTML5 & CSS3"</span>]<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">}</span><br/>
-          &nbsp;&nbsp;]<br/>
-          <span style="color: #ff7b72;">}</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Technical Profile Terminal GIF Animation" />
+</p>
 
 <br/>
 
@@ -186,9 +144,7 @@
 - Operated TSX-certified die-attach equipment for server chipset production under strict thermal, vacuum, and gas parameters.
 - Proactively monitored process metrics via process-control software to prevent equipment failures and sustain 24/7 line continuity.
 - Managed shift passdowns, calibrations, and error resolution under strict ITIL/SOP/SLA frameworks.
-
-**CCTV Operator** | *EYK Security, Costa Rica* (2022)
-- Enterprise-wide real-time monitoring of CCTV networks and access-control systems with high-priority incident escalation.
+- Sustained consistent performance and attention to detail through 4x3 rotating night shifts in a high-pressure shared work-cell with engineers and technicians.
 
 <br/>
 

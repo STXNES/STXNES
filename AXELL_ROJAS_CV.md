@@ -32,10 +32,6 @@ Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-ali
 - Owned shift passdowns, machine setups, calibrations, and X-ray verification across a 24/7 production environment, maintaining precise incident and production documentation for Team Leaders and cross-shift continuity.
 - Sustained consistent performance and attention to detail through 4x3 rotating night shifts (6 PM–6 AM, rotating every 6 months) in a high-pressure, shared work-cell with operators, technicians, and engineers.
 
-### **EYK Security**, Costa Rica *(2022)*
-*CCTV Operator*
-- Delivered proactive, enterprise-wide monitoring of CCTV networks and access-control systems, identifying and documenting security incidents in real time and coordinating high-priority escalation protocols.
-
 ---
 
 ## PROJECTS AND HOME LABS
