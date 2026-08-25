@@ -39,32 +39,31 @@
 ## 🖥️ System Status & Specs
 
 ```text
-                                         axell@stxnes -----------------------------------------
-                          .  ..          . OS: ................ Windows Server, Linux, Win11, iOS
-                ..        .......        . Role: .............. Systems Administrator & AI Specialist
-               :===+=       ::::::.      . Education: ......... B.S. Systems Engineering @ Fidélitas
-              .:+**##+.     .:-:::-:     . Kernel/Focus: ...... IT Infra + Agentic AI (RAG, LangGraph)
-             .-+#@@@%#+.      :------    . IDE/Tools: ......... VS Code, VMware, Hyper-V, n8n, Docker
-              .::=*#*--=:      -----=-   . Lang.Coding: ....... Python, C#, SQL, PowerShell, Bash
-              :..  +%*=::      .-=--==   . Lang.Web/Data: ..... HTML5, CSS3, JSON, REST APIs
-              :+*: :##%%#:      :=====   . Lang.Real: ......... Spanish (Native), English (B1/Tech)
-             .-+=.  ++###*      :-====   
-             .:+#+=+%%%@@@=     :--===   - Certifications -------------------------------------
-              :*%*---+++#%+      --===   . SC-300: ............ Identity & Access Admin (Completed)
-               :=- :*#%#%%*      -====   . MD-102: ............ Endpoint Admin (Completed)
-                :==+*%%@%%=      -====   . Cisco: ............. CCNA (Completed)
-                 .:-*@@@%*       :-==-   . ONE/Oracle: ........ Tech AI Builder (Completed)
-  .                .-=-=+*       :-=--   . CompTIA: ........... A+ Professional Prep (Completed)
-...                    -#@:      :----   . Cloud: ............. Google Cloud Foundations (Completed)
-...                 -*%%@*       .---:   
-....              .#@@#=.       .---::   - Contact --------------------------------------------
- ..:.              --.         :---::.   . Email: ............. axelry2402@gmail.com
- ..::.                          ..::.    . LinkedIn: .......... linkedin.com/in/axro
-  .:::.                                  . GitHub: ............ github.com/STXNES
-   .:::                                  ------------------------------------------------------
-     .                                   
-                                         
-                                         
+             g@M%@%%@N%Nw,,             axell@stxnes ---------------------------------------
+          ,M*`||*%gNM=]mM%g||%N,        . OS: ................ Windows Server, Linux, Win11, iOS
+         p!`   '!```''''|||jhlj%w       . Role: .............. Systems Administrator & AI Specialist
+       ,@L  ,,        ''`|j%M]%M        . Education: ......... B.S. Systems Engineering @ Fidélitas
+      j]`  .,      ,     ''''|%Wg       . Kernel/Focus: ...... IT Infra + Agentic AI (RAG, LangGraph)
+     /{||]@████████pp.      |||||       . IDE/Tools: ......... VS Code, VMware, Hyper-V, n8n, Docker
+    , `]@@@@@@@@@@@@@@p  ,              . Lang.Coding: ....... Python, C#, SQL, PowerShell, Bash
+   ,  :]%%@@@@%%%%%%k%h '*||mkr   *     . Lang.Web/Data: ..... HTML5, CSS3, JSON, REST APIs
+   '   j%M`      |jkk'  ~nrn=|i  ;      . Lang.Real: ......... Spanish (Native), English (B1/Tech)
+   !  jrr*^`           `"!  L'':!       
+    j  lp;,.  ,/ @@    ,;\nmy  ,~       - Certifications -----------------------------------
+   i r @@mmHM @@@@ ~*****M*,p ;,        . SC-300: ............ Identity & Access Admin (Completed)
+   | ]@@@@HHH]g@M%%%%H,jmgpmb% j        . MD-102: ............ Endpoint Admin (Completed)
+   ;;%%%%k%@[,.n|;.;j%%k|k%%',['        . Cisco: ............. CCNA (Completed)
+    H|%%k%%%j%k||,;;j;!!'|ij}]@         . ONE/Oracle: ........ Tech AI Builder (Completed)
+   "djjmkL,"]] [,,,,wwxw;|#kjk`         . CompTIA: ........... A+ Professional Prep (Completed)
+    %;%km%%%M%M|%%jkkii|||[             . Cloud: ............. Google Cloud Foundations (Completed)
+      kjj%%kkkl!||||||j|||`             
+       |jmH@@@b%%kkmk%i!,[              - Contact ------------------------------------------
+       @p|j%%%jkk|||j*'`;[              . Email: ............. axelry2402@gmail.com
+       ]@@@g|''''`  ,,;j%k              . LinkedIn: .......... linkedin.com/in/axro
+       @@@@@mgmp,,,,,;;jj%%k%           . GitHub: ............ github.com/STXNES
+     - `%%%@@@%%kgki!|jjjjk%k%@         
+   .^[' %@@@@HH%b%k{illljkjj%%%% ; `,   ----------------------------------------------------
+   =['`  .%HH%%%%H@gkilljjj%kk%".   `i   
 ```
 
 <br/>
@@ -73,32 +72,45 @@
 
 ## ⚡ Technical Profile Overview
 
-```json
-{
-  "categories": [
-    {
-      "name": "Server & Core Infrastructure",
-      "items": ["Windows Server 2022", "Active Directory (AD DS)", "GPOs", "OUs", "DNS", "DHCP", "Linux Fundamentals"]
-    },
-    {
-      "name": "Identity & Endpoint Security",
-      "items": ["Microsoft Entra ID", "Microsoft Intune", "SC-300 Identity Admin", "MD-102 Endpoint Admin", "Device Management"]
-    },
-    {
-      "name": "Virtualization & Cloud",
-      "items": ["VMware ESXi/Workstation", "Hyper-V", "Microsoft Azure (AZ-900 prep)", "Google Cloud Foundations", "OCI"]
-    },
-    {
-      "name": "Applied AI & Automation",
-      "items": ["RAG Architecture", "LangChain", "LangGraph", "n8n Automation", "Vector Stores (FAISS)", "REST APIs"]
-    },
-    {
-      "name": "Scripting & Development",
-      "items": ["Python", "PowerShell", "C#", "SQL (PostgreSQL)", "Docker", "Git/GitHub", "HTML5/CSS3"]
-    }
-  ]
-}
-```
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; background-color: #0d1117;">
+    <thead>
+      <tr style="background-color: #161b22; height: 36px; border-bottom: 1px solid #30363d;">
+        <th align="left" style="padding-left: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: normal; color: #8b949e;">
+          <span style="color: #ff5f56;">🔴</span>&nbsp;<span style="color: #ffbd2e;">🟡</span>&nbsp;<span style="color: #27c93f;">🟢</span>
+          &nbsp;&nbsp;&nbsp;&nbsp;<b>axell@stxnes-macbook</b> &nbsp;&mdash;&nbsp; zsh &nbsp;&mdash;&nbsp; 80x24
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 16px; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+          <span style="color: #2f81f7;">axell@stxnes-macbook</span> <span style="color: #d2a8ff;">~</span> <span style="color: #79c0ff;">%</span> <b>./get_technical_overview.sh</b><br/><br/>
+          <span style="color: #58a6ff;">[+] LOADING TECHNICAL PROFILE OVERVIEW...</span><br/>
+          <span style="color: #8b949e;">--------------------------------------------------------------------------------</span><br/><br/>
+          <b style="color: #79c0ff;">❯ SERVER & CORE INFRASTRUCTURE</b><br/>
+          &nbsp;&nbsp;• Windows Server 2022 &nbsp;|&nbsp; Active Directory (AD DS) &nbsp;|&nbsp; Group Policy Objects (GPOs)<br/>
+          &nbsp;&nbsp;• Organizational Units (OUs) &nbsp;|&nbsp; DNS & DHCP Services &nbsp;|&nbsp; Linux Fundamentals<br/><br/>
+          <b style="color: #79c0ff;">❯ IDENTITY & ENDPOINT SECURITY</b><br/>
+          &nbsp;&nbsp;• Microsoft Entra ID &nbsp;|&nbsp; Microsoft Intune &nbsp;|&nbsp; Centralized Device Management<br/>
+          &nbsp;&nbsp;• SC-300: Identity & Access Administrator (Completed)<br/>
+          &nbsp;&nbsp;• MD-102: Endpoint Administrator (Completed)<br/><br/>
+          <b style="color: #79c0ff;">❯ VIRTUALIZATION & CLOUD INFRASTRUCTURE</b><br/>
+          &nbsp;&nbsp;• VMware ESXi & Workstation Pro &nbsp;|&nbsp; Hyper-V Virtualization<br/>
+          &nbsp;&nbsp;• Microsoft Azure (AZ-900 Prep) &nbsp;|&nbsp; Google Cloud Foundations &nbsp;|&nbsp; OCI<br/><br/>
+          <b style="color: #79c0ff;">❯ APPLIED AI & WORKFLOW AUTOMATION</b><br/>
+          &nbsp;&nbsp;• Retrieval-Augmented Generation (RAG Architecture)<br/>
+          &nbsp;&nbsp;• Intelligent Agents (LangChain, LangGraph) &nbsp;|&nbsp; FAISS Vector Database<br/>
+          &nbsp;&nbsp;• n8n Process Automation &nbsp;|&nbsp; REST API Integrations<br/><br/>
+          <b style="color: #79c0ff;">❯ SCRIPTING & DEVELOPMENT</b><br/>
+          &nbsp;&nbsp;• Python &nbsp;|&nbsp; PowerShell &nbsp;|&nbsp; C# &nbsp;|&nbsp; SQL (PostgreSQL) &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Git/GitHub<br/>
+          <span style="color: #8b949e;">--------------------------------------------------------------------------------</span><br/>
+          <span style="color: #56d364;">[✓] TECHNICAL PROFILE LOADED SUCCESSFULLY.</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br/>
 
@@ -185,8 +197,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STXNES&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STXNES&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=STXNES&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=STXNES&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
 <br/>
