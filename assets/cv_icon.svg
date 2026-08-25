@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Skillicons-style dark background container -->
+  <rect width="48" height="48" rx="10" fill="#18181b"/>
+  <rect x="0.5" y="0.5" width="47" height="47" rx="9.5" stroke="#27272a" stroke-opacity="0.8"/>
+  
+  <!-- File / Document Icon -->
+  <path d="M16 12C14.8954 12 14 12.8954 14 14V34C14 35.1046 14.8954 36 16 36H32C33.1046 36 34 35.1046 34 34V20L26 12H16Z" fill="#7C3AED"/>
+  <path d="M26 12V20H34" fill="#a78bfa"/>
+  
+  <!-- Lines representing document text -->
+  <rect x="18" y="24" width="12" height="2" rx="1" fill="#FFFFFF"/>
+  <rect x="18" y="28" width="8" height="2" rx="1" fill="#FFFFFF"/>
+  
+  <!-- PDF Badge tag -->
+  <rect x="22" y="31" width="10" height="4" rx="1" fill="#EF4444"/>
+  <text x="23" y="34.2" font-family="-apple-system, sans-serif" font-size="3" font-weight="bold" fill="#FFFFFF">PDF</text>
+</svg>

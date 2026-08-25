@@ -21,17 +21,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/axro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/axro" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/STXNES" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:axelry2402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="46" alt="Gmail" />
   </a>
-  <a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" target="_blank" title="Download CV Axell Rojas (PDF)">
+    <img src="https://raw.githubusercontent.com/STXNES/STXNES/main/assets/cv_icon.svg" height="46" alt="CV Axell Rojas PDF" />
   </a>
 </p>
 
