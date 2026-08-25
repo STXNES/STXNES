@@ -22,7 +22,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/axro" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" alt="Social Links" height="42" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/STXNES" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:axelry2402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_CV_Axell_Rojas_(PDF)-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Axell Rojas PDF" />
   </a>
 </p>
 
@@ -67,51 +79,8 @@
 ## ⚡ Technical Profile Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/STXNES/STXNES/main/assets/terminal.svg" width="100%" alt="Technical Profile Terminal Animation" />
+  <img src="./assets/terminal.gif" width="100%" alt="About Me Terminal GIF Animation" />
 </p>
-
-<br/>
-
----
-
-## 💼 Recruiter & Hiring Manager Overview
-
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #7c3aed; border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, #0d1117 0%, #1a1636 100%);">
-    <tr>
-      <td style="padding: 24px; text-align: left;">
-        <h3 style="margin: 0 0 10px 0; color: #a78bfa; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 20px;">
-          🚀 Why Hire Axell Rojas?
-        </h3>
-        <p style="margin: 0 0 16px 0; color: #c9d1d9; font-size: 14.5px; line-height: 1.6;">
-          An IT &amp; Systems professional bridging <b>2+ years of 24/7 mission-critical operations at Intel</b> with certified identity &amp; endpoint security <b>(SC-300, MD-102)</b> and modern <b>Applied AI Engineering (RAG, LangChain, n8n)</b>.
-        </p>
-        
-        <!-- Key Highlights Badges -->
-        <p style="margin: 0 0 20px 0;">
-          <img src="https://img.shields.io/badge/🏢_Experience-2%2B_Years_Mission--Critical_Ops_@_Intel-0078D6?style=flat-square" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/📜_Certifications-SC--300_%26_MD--102_Certified-success?style=flat-square" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/🤖_AI_Focus-RAG,_LangChain_%26_n8n_Agents-7C3AED?style=flat-square" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/🎓_Degree-Systems_Engineering_Student-FF6584?style=flat-square" />
-        </p>
-
-        <!-- Call To Action Buttons -->
-        <div style="margin-top: 10px;">
-          <a href="https://github.com/STXNES/STXNES/blob/main/AXELL_ROJAS_CV.md" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/📄_VIEW_FULL_CURRICULUM_VITAE_(MARKDOWN)-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Resume" />
-          </a>
-          &nbsp;&nbsp;
-          <a href="mailto:axelry2402@gmail.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/✉️_SCHEDULE_AN_INTERVIEW-0078D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Axell" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
