@@ -21,21 +21,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/axro" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/STXNES" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:axelry2402@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="46" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" target="_blank" title="Download CV Axell Rojas (PDF)">
-    <img src="https://raw.githubusercontent.com/STXNES/STXNES/main/assets/cv_icon.svg" height="46" alt="CV Axell Rojas PDF" />
-  </a>
+  <a href="https://www.linkedin.com/in/axro" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/STXNES" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=github" height="48" width="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:axelry2402@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" target="_blank" title="Download CV Axell Rojas (PDF)" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/STXNES/STXNES/main/assets/cv_icon.svg" height="48" width="48" alt="CV Axell Rojas PDF" /></a>
 </p>
 
 <br/>
