@@ -5,9 +5,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-IT and Systems professional combining hands-on infrastructure experience — **Windows Server, Active Directory, VMware, and Microsoft 365/Azure administration** (including Microsoft Intune, Entra ID, device management, and endpoint security) — with a growing specialization in **applied AI and automation**, including Retrieval-Augmented Generation (RAG), intelligent agents (LangChain, LangGraph), and workflow automation (n8n). 
-
-Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-aligned frameworks, with proven adaptability across rotating shifts and sustained composure in high-pressure, production-critical environments. Currently completing a Bachelor's Degree in Systems Engineering, backed by hands-on certifications and training spanning identity and endpoint management, cloud infrastructure, networking, and AI engineering. Combines technical depth with clear documentation and cross-functional collaboration to deliver reliable, well-supported solutions.
+IT and Systems professional combining hands-on infrastructure experience — **Windows Server, Active Directory, VMware, and Microsoft 365/Azure administration**, including Microsoft Intune, Entra ID, device management, and endpoint security — with a growing specialization in **applied AI and automation**, including Retrieval-Augmented Generation (RAG), intelligent agents (LangChain, LangGraph), and workflow automation (n8n). Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-aligned frameworks, with proven adaptability across rotating shifts and sustained composure in high-pressure, production-critical environments. Currently completing a Bachelor's Degree in Systems Engineering, backed by hands-on certifications and training spanning identity and endpoint management, cloud infrastructure, networking, and AI engineering. Combines technical depth with clear documentation and cross-functional collaboration to deliver reliable, well-supported solutions.
 
 ---
 
@@ -31,6 +29,10 @@ Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-ali
 - Diagnosed and resolved equipment errors (vacuum/suction failures, substrate positioning) within SLA-defined time windows, escalating complex cases to L2 technicians or engineering to keep the line running with minimal disruption.
 - Owned shift passdowns, machine setups, calibrations, and X-ray verification across a 24/7 production environment, maintaining precise incident and production documentation for Team Leaders and cross-shift continuity.
 - Sustained consistent performance and attention to detail through 4x3 rotating night shifts (6 PM–6 AM, rotating every 6 months) in a high-pressure, shared work-cell with operators, technicians, and engineers.
+
+### **EYK Security**, Costa Rica *(2022)*
+*CCTV Operator*
+- Delivered proactive, enterprise-wide monitoring of CCTV networks and access-control systems, identifying and documenting security incidents in real time and coordinating high-priority escalation protocols.
 
 ---
 
@@ -61,20 +63,27 @@ Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-ali
 
 ## CERTIFICATIONS AND TRAINING
 
-- **SC-300: Identity and Access Administrator** — *Completed*
-- **MD-102: Endpoint Administrator** — *Completed*
-- **Cisco Networking Academy — CCNA** — *Completed*
 - **Tech AI Builder, ONE AI FOR TECH LATAM (Alura Latam x Oracle)** — *5 formaciones completed:*
-  - AI Foundations & Leveling (Python, Git/GitHub, AI & ML fundamentals)
-  - Generative AI Development & Orchestration (LangChain, Prompting)
-  - AI Agent Engineering & Automation (LangGraph, n8n)
-  - Advanced Data Intelligence & RAG (Embeddings, Vector DBs, FAISS)
-  - Oracle Cloud Infrastructure (OCI Deployment & IaC)
+  - AI Foundations & Leveling — computational thinking, Git/GitHub, AI and Machine Learning fundamentals, Python for AI
+  - Generative AI Development & Orchestration — applied prompting, AI-assisted development, LLM orchestration with LangChain
+  - AI Agent Engineering & Automation — intelligent agents with LangGraph, workflow automation with n8n
+  - Advanced Data Intelligence & RAG — Retrieval-Augmented Generation, embeddings and vector databases, LangChain
+  - Oracle Cloud Infrastructure — cloud application deployment, databases, and infrastructure as code on OCI
+- **Akamai Network Engineering Specialization, Coursera (Akamai Technical Academy)** — *In Progress: Operating Systems, Networking, Databases, Programming, and Security Fundamentals*
+- **SC-300: Identity and Access Administrator** — *Exam Scheduled, October 2026*
+- **MD-102: Endpoint Administrator** — *Exam Scheduled, October 2026*
+- **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — *Preparation Stage*
+- **Microsoft Azure AZ-900: Azure Fundamentals** — *In Progress, DataCamp Preparation*
 - **CompTIA A+ Professional Preparation, Coursera** — *Completed*
+- **Cisco Networking Academy — CCNA: Introduction to Networks** — *Completed*
 - **Google Cloud Foundations, Academic Training** — *Completed*
 - **Oracle Next Education (ONE): AI Agents Immersion** — *Completed*
-- **Microsoft Azure AZ-900: Azure Fundamentals** — *In Progress (DataCamp Prep)*
-- **Akamai Network Engineering Specialization, Coursera** — *In Progress*
+
+---
+
+## PROFESSIONAL DEVELOPMENT
+
+- **Microsoft AI Skill Fest 2026** — *Foundations of Agentic AI, Agent Architecture Design, and AI Systems Development Lifecycle (SDLC) Integration.*
 
 ---
 
