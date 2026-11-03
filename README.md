@@ -12,7 +12,7 @@
 </a>
 
 <div>
-  <img src="./assets/terminal.svg" width="100%" alt="About Me Terminal Window"/>
+  <img src="./assets/terminal.gif" width="100%" alt="About Me Terminal Window"/>
 </div>
 
 ### Main skills

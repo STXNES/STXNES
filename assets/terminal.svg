@@ -15,15 +15,15 @@
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
-    .l1 { opacity: 0; animation: fadeIn 0.3s 0.2s forwards; }
-    .l2 { opacity: 0; animation: fadeIn 0.3s 0.5s forwards; }
-    .l3 { opacity: 0; animation: fadeIn 0.3s 0.8s forwards; }
-    .l4 { opacity: 0; animation: fadeIn 0.3s 1.1s forwards; }
-    .l5 { opacity: 0; animation: fadeIn 0.3s 1.4s forwards; }
-    .l6 { opacity: 0; animation: fadeIn 0.3s 1.7s forwards; }
-    .l7 { opacity: 0; animation: fadeIn 0.3s 2.0s forwards; }
-    .l8 { opacity: 0; animation: fadeIn 0.3s 2.3s forwards; }
-    .l9 { opacity: 0; animation: fadeIn 0.3s 2.6s forwards; }
+    .l1 { animation: fadeIn 0.3s 0.2s forwards; }
+    .l2 { animation: fadeIn 0.3s 0.5s forwards; }
+    .l3 { animation: fadeIn 0.3s 0.8s forwards; }
+    .l4 { animation: fadeIn 0.3s 1.1s forwards; }
+    .l5 { animation: fadeIn 0.3s 1.4s forwards; }
+    .l6 { animation: fadeIn 0.3s 1.7s forwards; }
+    .l7 { animation: fadeIn 0.3s 2.0s forwards; }
+    .l8 { animation: fadeIn 0.3s 2.3s forwards; }
+    .l9 { animation: fadeIn 0.3s 2.6s forwards; }
     .cursor { animation: blink 1s infinite; fill: #00c2ff; }
   </style>
 
@@ -57,42 +57,42 @@
     <!-- Line 3 -->
     <g class="l3" transform="translate(0, 48)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Systems &amp; Infrastructure&quot;:</tspan> [<tspan class="val">&quot;Windows Server 2022&quot;</tspan>, <tspan class="val">&quot;AD DS&quot;</tspan>, <tspan class="val">&quot;GPOs&quot;</tspan>, <tspan class="val">&quot;Linux CIS L2&quot;</tspan>, <tspan class="val">&quot;Nginx&quot;</tspan>],
+        <tspan class="key">&#160;&#160;&quot;Systems &amp; Infrastructure&quot;:</tspan> [<tspan class="val">&quot;Windows Server 2022&quot;</tspan>, <tspan class="val">&quot;AD DS&quot;</tspan>, <tspan class="val">&quot;GPOs&quot;</tspan>, <tspan class="val">&quot;Linux CIS L2&quot;</tspan>, <tspan class="val">&quot;Nginx&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 4 -->
     <g class="l4" transform="translate(0, 72)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Identity &amp; Cloud&quot;:</tspan> [<tspan class="val">&quot;Microsoft Entra ID&quot;</tspan>, <tspan class="val">&quot;Intune&quot;</tspan>, <tspan class="val">&quot;Azure&quot;</tspan>, <tspan class="val">&quot;OCI&quot;</tspan>, <tspan class="val">&quot;VMware&quot;</tspan>],
+        <tspan class="key">&#160;&#160;&quot;Identity &amp; Cloud&quot;:</tspan> [<tspan class="val">&quot;Microsoft Entra ID&quot;</tspan>, <tspan class="val">&quot;Intune&quot;</tspan>, <tspan class="val">&quot;Azure&quot;</tspan>, <tspan class="val">&quot;OCI&quot;</tspan>, <tspan class="val">&quot;VMware&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 5 -->
     <g class="l5" transform="translate(0, 96)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Applied AI &amp; Workflows&quot;:</tspan> [<tspan class="val">&quot;RAG Pipelines&quot;</tspan>, <tspan class="val">&quot;LangChain&quot;</tspan>, <tspan class="val">&quot;n8n Automation&quot;</tspan>, <tspan class="val">&quot;FAISS&quot;</tspan>, <tspan class="val">&quot;Docker&quot;</tspan>],
+        <tspan class="key">&#160;&#160;&quot;Applied AI &amp; Workflows&quot;:</tspan> [<tspan class="val">&quot;RAG Pipelines&quot;</tspan>, <tspan class="val">&quot;LangChain&quot;</tspan>, <tspan class="val">&quot;n8n Automation&quot;</tspan>, <tspan class="val">&quot;FAISS&quot;</tspan>, <tspan class="val">&quot;Docker&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 6 -->
     <g class="l6" transform="translate(0, 120)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Automation &amp; Scripting&quot;:</tspan> [<tspan class="val">&quot;Python&quot;</tspan>, <tspan class="val">&quot;PowerShell&quot;</tspan>, <tspan class="val">&quot;Bash&quot;</tspan>, <tspan class="val">&quot;SQL (Postgres)&quot;</tspan>, <tspan class="val">&quot;Git&quot;</tspan>],
+        <tspan class="key">&#160;&#160;&quot;Automation &amp; Scripting&quot;:</tspan> [<tspan class="val">&quot;Python&quot;</tspan>, <tspan class="val">&quot;PowerShell&quot;</tspan>, <tspan class="val">&quot;Bash&quot;</tspan>, <tspan class="val">&quot;SQL (Postgres)&quot;</tspan>, <tspan class="val">&quot;Git&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 7 -->
     <g class="l7" transform="translate(0, 144)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Mission-Critical Background&quot;:</tspan> [<tspan class="val">&quot;Intel 24/7 Operations&quot;</tspan>, <tspan class="val">&quot;SLA Incident Triage&quot;</tspan>, <tspan class="val">&quot;SOP Compliance&quot;</tspan>],
+        <tspan class="key">&#160;&#160;&quot;Mission-Critical Background&quot;:</tspan> [<tspan class="val">&quot;Intel 24/7 Operations&quot;</tspan>, <tspan class="val">&quot;SLA Incident Triage&quot;</tspan>, <tspan class="val">&quot;SOP Compliance&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 8 -->
     <g class="l8" transform="translate(0, 168)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;&quot;Status&quot;:</tspan> <tspan class="val">&quot;Open to Systems Administrator, Support &amp; Cloud Roles&quot;</tspan>
+        <tspan class="key">&#160;&#160;&quot;Status&quot;:</tspan> <tspan class="val">&quot;Open to Systems Administrator, Support &amp; Cloud Roles&quot;</tspan>
       </text>
     </g>
 
