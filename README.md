@@ -35,6 +35,9 @@
   <a href="https://github.com/STXNES/HR-AI-Assistant" target="_blank">
     <img src="https://img.shields.io/badge/HR_AI_Automation-7B2CBF?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n AI Workflows">
   </a>
+  <a href="https://github.com/STXNES/DevOps-Automated-ETL-Pipeline" target="_blank">
+    <img src="https://img.shields.io/badge/DevOps_ETL_Pipeline-059669?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevOps ETL Pipeline">
+  </a>
 </div>
 
 Production-grade architectures and enterprise labs spanning hardened Linux servers (CIS Benchmark Level 2, UFW, Nginx TLS 1.3), Windows Server 2022 Active Directory environments (GPOs, AGDLP, VMware), containerized RAG retrieval agents on Oracle Cloud (OCI), and automated n8n workflow systems.  
@@ -62,5 +65,9 @@ Explore interactive documentation and demos on my [Web Portfolio](https://axro-p
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://raw.githubusercontent.com/STXNES/STXNES/main/AXELL_ROJAS_CV.pdf" download>Download my resume</a>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=STXNES&color=00c2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" alt="footer"/>
