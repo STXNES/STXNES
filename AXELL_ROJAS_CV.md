@@ -1,22 +1,22 @@
 # AXELL ROJAS
-**Naranjo, Costa Rica | 6359-9128 | axelry2402@gmail.com | [linkedin.com/in/axro](https://linkedin.com/in/axro) | [github.com/STXNES](https://github.com/STXNES)**
+**Naranjo, Costa Rica | 6359-9128 | axelry2402@gmail.com | [linkedin.com/in/axro](https://linkedin.com/in/axro) | [github.com/STXNES](https://github.com/STXNES) | [axro-project.vercel.app](https://axro-project.vercel.app/)**
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-IT and Systems professional combining hands-on infrastructure experience — **Windows Server, Active Directory, VMware, and Microsoft 365/Azure administration**, including Microsoft Intune, Entra ID, device management, and endpoint security — with a growing specialization in **applied AI and automation**, including Retrieval-Augmented Generation (RAG), intelligent agents (LangChain, LangGraph), and workflow automation (n8n). Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-aligned frameworks, with proven adaptability across rotating shifts and sustained composure in high-pressure, production-critical environments. Currently completing a Bachelor's Degree in Systems Engineering, backed by hands-on certifications and training spanning identity and endpoint management, cloud infrastructure, networking, and AI engineering. Combines technical depth with clear documentation and cross-functional collaboration to deliver reliable, well-supported solutions.
+IT and Systems professional combining hands-on infrastructure experience — **Windows Server 2022, Active Directory, VMware, Linux Hardening, and Microsoft 365/Azure administration**, including Microsoft Intune, Entra ID, device management, and endpoint security — with a specialization in **applied AI and automation**, including Retrieval-Augmented Generation (RAG), intelligent agents (LangChain, LangGraph), and workflow automation (n8n). Background in 24/7 mission-critical operations under strict SOP/SLA and ITIL-aligned frameworks, with proven adaptability across rotating shifts and sustained composure in high-pressure, production-critical environments. Currently completing a Bachelor's Degree in Systems Engineering, backed by hands-on certifications and training spanning identity and endpoint management, cloud infrastructure, networking, and AI engineering. Combines technical depth with clear documentation and cross-functional collaboration to deliver reliable, well-supported solutions.
 
 ---
 
 ## SKILLS
 
 - **Operations & Frameworks:** Tier 1/2 Technical Support, Incident Management & Documentation, ITIL-Aligned Processes, SOP/SLA Compliance, 24/7 Shift Operations, Root Cause Troubleshooting
-- **Server & OS Administration:** Windows Server 2022, Windows Desktop, Linux Fundamentals
-- **Core Infrastructure:** Active Directory (OUs, GPOs, User Management), DNS, DHCP, Networking (CCNA)
-- **Virtualization & Cloud:** VMware Workstation/ESXi, Hyper-V, Microsoft Azure Fundamentals (AZ-900 in progress), Google Cloud Foundations
-- **AI & Workflows:** RAG (Retrieval-Augmented Generation), LangChain, Agentic AI Architecture, n8n Automation, REST API Integrations
-- **Productivity & Scripting:** Microsoft 365, Microsoft Intune, Microsoft Entra ID, Python, C#, Dynamics 365 Finance & Operations Fundamentals, Power Platform & Dataverse Fundamentals
+- **Server & OS Administration:** Windows Server 2022, Windows Desktop, Linux Administration (Debian, RHEL, CIS Benchmark Level 2 Hardening)
+- **Core Infrastructure & Security:** Active Directory (OUs, GPOs, AGDLP Model), DNS, DHCP, UFW Firewall, Fail2ban, OpenSSH (ed25519), Networking (CCNA)
+- **Virtualization & Cloud:** VMware Workstation Pro / ESXi, Hyper-V, Microsoft Azure (AZ-900 in progress), Oracle Cloud Infrastructure (OCI Compute), Google Cloud Foundations
+- **AI & Automation:** Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Agentic AI Architecture, FAISS Vector DB, Cohere Embeddings, n8n Automation, REST API Integrations
+- **Productivity & Scripting:** Microsoft 365, Microsoft Intune, Microsoft Entra ID, Python 3.10+, PowerShell, Bash, SQL (PostgreSQL, Neon DB), Docker & Compose
 
 ---
 
@@ -36,19 +36,24 @@ IT and Systems professional combining hands-on infrastructure experience — **W
 
 ---
 
-## PROJECTS AND HOME LABS
+## PROJECTS AND ARCHITECTURAL LABS
+
+### **Enterprise Linux Hardened Server & Services** *(CIS Benchmark L2 Hardening)*
+- Hardened an enterprise Debian 12 / RHEL production server architecture conforming strictly to CIS Benchmark Level 2 guidelines.
+- Configured bastioned OpenSSH (custom port 2222, exclusive ed25519 key authentication, root and password logins disabled), stateful UFW firewall, and 3 automated Fail2ban jails (sshd, nginx rate limiting, bad requests).
+- Deployed Nginx reverse proxy with TLS 1.3, HTTP/2, and systemd process sandboxing, alongside an automated Bash backup pipeline utilizing zstd compression, asymmetric GPG encryption, and SHA-256 integrity logs.
 
 ### **Windows Server 2022 Home Lab** *(VMware Infrastructure)*
 - Designed and deployed a virtualized enterprise lab in VMware Workstation Pro, provisioning two virtual machines — one configured as a Windows Server 2022 domain controller/admin server and one as a Windows client workstation — connected on a shared virtual network to simulate a real client-server enterprise environment.
 - Installed and configured Active Directory Domain Services (AD DS), promoted the server to a domain controller, and sized/allocated CPU and RAM resources across both VMs.
 - Created Organizational Units (OUs), user accounts, and Group Policy Objects (GPOs) to manage permissions, security policies, and centralized administration between the admin server and the client machine.
 
-### **HR Process Automation Assistant** *(Oracle Next Education - ONE)*
-- Built and deployed an automation assistant using n8n workflow automation and a Retrieval-Augmented Generation (RAG) pipeline with Cohere embeddings for contextual document retrieval, combined with REST API integrations and LLM-based conversational support, connected to PostgreSQL (Neon) and Telegram.
-
 ### **Alura Agente Inteligente** *(Challenge Alura Latam - Oracle Next Education)*
 - Built a RAG-based document Q&A agent (LangChain, FAISS vector store) that lets users query internal PDF/CSV business documents in natural language, with LLM integration (Groq/Gemini) and exact source citations (document and page/row).
 - Containerized with Docker and deployed to Oracle Cloud Infrastructure (OCI) Compute; interface built with FastAPI and a Streamlit/HTML5 chat UI.
+
+### **HR Process Automation Assistant** *(Oracle Next Education - ONE)*
+- Built and deployed an automation assistant using n8n workflow automation and a Retrieval-Augmented Generation (RAG) pipeline with Cohere embeddings for contextual document retrieval, combined with REST API integrations and LLM-based conversational support, connected to PostgreSQL (Neon) and Telegram.
 
 ---
 
@@ -70,10 +75,10 @@ IT and Systems professional combining hands-on infrastructure experience — **W
   - Advanced Data Intelligence & RAG — Retrieval-Augmented Generation, embeddings and vector databases, LangChain
   - Oracle Cloud Infrastructure — cloud application deployment, databases, and infrastructure as code on OCI
 - **Akamai Network Engineering Specialization, Coursera (Akamai Technical Academy)** — *In Progress: Operating Systems, Networking, Databases, Programming, and Security Fundamentals*
-- **SC-300: Identity and Access Administrator** — *Exam Scheduled, October 2026*
-- **MD-102: Endpoint Administrator** — *Exam Scheduled, October 2026*
-- **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — *Preparation Stage*
+- **SC-300: Identity and Access Administrator** — *Exam Scheduled*
+- **MD-102: Endpoint Administrator** — *Exam Scheduled*
 - **Microsoft Azure AZ-900: Azure Fundamentals** — *In Progress, DataCamp Preparation*
+- **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — *Preparation Stage*
 - **CompTIA A+ Professional Preparation, Coursera** — *Completed*
 - **Cisco Networking Academy — CCNA: Introduction to Networks** — *Completed*
 - **Google Cloud Foundations, Academic Training** — *Completed*
