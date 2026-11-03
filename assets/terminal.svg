@@ -1,10 +1,10 @@
-<svg width="800" height="340" viewBox="0 0 800 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="360" viewBox="0 0 800 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 10px; }
     .header-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 10px; }
-    .header-title { font-family: 'Fira Code', Consolas, monospace; font-size: 13px; font-weight: 600; fill: #8b949e; }
-    .term-text { font-family: 'Fira Code', Consolas, monospace; font-size: 13px; line-height: 1.6; }
-    .prompt { fill: #2f81f7; font-weight: bold; }
+    .header-title { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #8b949e; }
+    .term-text { font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13px; line-height: 1.6; }
+    .prompt { fill: #00c2ff; font-weight: bold; }
     .path { fill: #d2a8ff; }
     .cmd { fill: #79c0ff; font-weight: bold; }
     .key { fill: #79c0ff; font-weight: bold; }
@@ -16,18 +16,19 @@
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
     .l1 { opacity: 0; animation: fadeIn 0.3s 0.2s forwards; }
-    .l2 { opacity: 0; animation: fadeIn 0.3s 0.6s forwards; }
-    .l3 { opacity: 0; animation: fadeIn 0.3s 1.0s forwards; }
-    .l4 { opacity: 0; animation: fadeIn 0.3s 1.4s forwards; }
-    .l5 { opacity: 0; animation: fadeIn 0.3s 1.8s forwards; }
-    .l6 { opacity: 0; animation: fadeIn 0.3s 2.2s forwards; }
-    .l7 { opacity: 0; animation: fadeIn 0.3s 2.6s forwards; }
-    .l8 { opacity: 0; animation: fadeIn 0.3s 3.0s forwards; }
-    .cursor { animation: blink 1s infinite; fill: #58a6ff; }
+    .l2 { opacity: 0; animation: fadeIn 0.3s 0.5s forwards; }
+    .l3 { opacity: 0; animation: fadeIn 0.3s 0.8s forwards; }
+    .l4 { opacity: 0; animation: fadeIn 0.3s 1.1s forwards; }
+    .l5 { opacity: 0; animation: fadeIn 0.3s 1.4s forwards; }
+    .l6 { opacity: 0; animation: fadeIn 0.3s 1.7s forwards; }
+    .l7 { opacity: 0; animation: fadeIn 0.3s 2.0s forwards; }
+    .l8 { opacity: 0; animation: fadeIn 0.3s 2.3s forwards; }
+    .l9 { opacity: 0; animation: fadeIn 0.3s 2.6s forwards; }
+    .cursor { animation: blink 1s infinite; fill: #00c2ff; }
   </style>
 
   <!-- Window Container -->
-  <rect class="bg" x="1" y="1" width="798" height="338" rx="10" />
+  <rect class="bg" x="1" y="1" width="798" height="358" rx="10" />
   
   <!-- Header Bar -->
   <path d="M 1 11 A 10 10 0 0 1 11 1 L 789 1 A 10 10 0 0 1 799 11 L 799 36 L 1 36 Z" fill="#161b22" />
@@ -37,14 +38,14 @@
   <circle cx="20" cy="18" r="6" fill="#ff5f56" />
   <circle cx="38" cy="18" r="6" fill="#ffbd2e" />
   <circle cx="56" cy="18" r="6" fill="#27c93f" />
-  <text x="76" y="22" class="header-title">stxnes@macbook-pro ~ % cat skills.json</text>
+  <text x="76" y="22" class="header-title">axell@sysadmin: ~ / profile.json</text>
 
   <!-- Terminal Output -->
   <g class="term-text" transform="translate(24, 65)">
     <!-- Line 1 -->
     <g class="l1" transform="translate(0, 0)">
       <text x="0" y="0">
-        <tspan class="prompt">stxnes@macbook-pro</tspan> <tspan class="path">~</tspan> % <tspan class="cmd">cat skills.json</tspan>
+        <tspan class="prompt">axell@sysadmin</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">cat profile.json</tspan>
       </text>
     </g>
 
@@ -56,44 +57,51 @@
     <!-- Line 3 -->
     <g class="l3" transform="translate(0, 48)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;"Server &amp; Infrastructure":</tspan> [<tspan class="val">"Windows Server 2022"</tspan>, <tspan class="val">"AD DS"</tspan>, <tspan class="val">"GPOs"</tspan>, <tspan class="val">"OUs"</tspan>, <tspan class="val">"DNS/DHCP"</tspan>],
+        <tspan class="key">&nbsp;&nbsp;&quot;Systems &amp; Infrastructure&quot;:</tspan> [<tspan class="val">&quot;Windows Server 2022&quot;</tspan>, <tspan class="val">&quot;AD DS&quot;</tspan>, <tspan class="val">&quot;GPOs&quot;</tspan>, <tspan class="val">&quot;Linux CIS L2&quot;</tspan>, <tspan class="val">&quot;Nginx&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 4 -->
     <g class="l4" transform="translate(0, 72)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;"Identity &amp; Endpoints":</tspan> [<tspan class="val">"Microsoft Entra ID"</tspan>, <tspan class="val">"Intune"</tspan>, <tspan class="val">"SC-300 (Completed)"</tspan>, <tspan class="val">"MD-102 (Completed)"</tspan>],
+        <tspan class="key">&nbsp;&nbsp;&quot;Identity &amp; Cloud&quot;:</tspan> [<tspan class="val">&quot;Microsoft Entra ID&quot;</tspan>, <tspan class="val">&quot;Intune&quot;</tspan>, <tspan class="val">&quot;Azure&quot;</tspan>, <tspan class="val">&quot;OCI&quot;</tspan>, <tspan class="val">&quot;VMware&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 5 -->
     <g class="l5" transform="translate(0, 96)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;"Virtualization &amp; Cloud":</tspan> [<tspan class="val">"VMware ESXi/Workstation"</tspan>, <tspan class="val">"Hyper-V"</tspan>, <tspan class="val">"Azure"</tspan>, <tspan class="val">"GCP"</tspan>, <tspan class="val">"OCI"</tspan>],
+        <tspan class="key">&nbsp;&nbsp;&quot;Applied AI &amp; Workflows&quot;:</tspan> [<tspan class="val">&quot;RAG Pipelines&quot;</tspan>, <tspan class="val">&quot;LangChain&quot;</tspan>, <tspan class="val">&quot;n8n Automation&quot;</tspan>, <tspan class="val">&quot;FAISS&quot;</tspan>, <tspan class="val">&quot;Docker&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 6 -->
     <g class="l6" transform="translate(0, 120)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;"Applied AI &amp; Workflows":</tspan> [<tspan class="val">"RAG Architecture"</tspan>, <tspan class="val">"LangChain"</tspan>, <tspan class="val">"LangGraph"</tspan>, <tspan class="val">"n8n"</tspan>, <tspan class="val">"FAISS"</tspan>],
+        <tspan class="key">&nbsp;&nbsp;&quot;Automation &amp; Scripting&quot;:</tspan> [<tspan class="val">&quot;Python&quot;</tspan>, <tspan class="val">&quot;PowerShell&quot;</tspan>, <tspan class="val">&quot;Bash&quot;</tspan>, <tspan class="val">&quot;SQL (Postgres)&quot;</tspan>, <tspan class="val">&quot;Git&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 7 -->
     <g class="l7" transform="translate(0, 144)">
       <text x="0" y="0">
-        <tspan class="key">&nbsp;&nbsp;"Scripting &amp; Tools":</tspan> [<tspan class="val">"Python"</tspan>, <tspan class="val">"PowerShell"</tspan>, <tspan class="val">"C#"</tspan>, <tspan class="val">"SQL (PostgreSQL)"</tspan>, <tspan class="val">"Docker"</tspan>, <tspan class="val">"Git"</tspan>]
+        <tspan class="key">&nbsp;&nbsp;&quot;Mission-Critical Background&quot;:</tspan> [<tspan class="val">&quot;Intel 24/7 Operations&quot;</tspan>, <tspan class="val">&quot;SLA Incident Triage&quot;</tspan>, <tspan class="val">&quot;SOP Compliance&quot;</tspan>],
       </text>
     </g>
 
     <!-- Line 8 -->
     <g class="l8" transform="translate(0, 168)">
       <text x="0" y="0">
-        <tspan class="bracket">}</tspan> <tspan class="success">[✓] PROFILE LOADED SUCCESSFULLY</tspan>
+        <tspan class="key">&nbsp;&nbsp;&quot;Status&quot;:</tspan> <tspan class="val">&quot;Open to Systems Administrator, Support &amp; Cloud Roles&quot;</tspan>
       </text>
-      <rect class="cursor" x="285" y="-12" width="8" height="15" />
+    </g>
+
+    <!-- Line 9 -->
+    <g class="l9" transform="translate(0, 192)">
+      <text x="0" y="0">
+        <tspan class="bracket">}</tspan> <tspan class="success">[OK] READY</tspan>
+      </text>
+      <rect class="cursor" x="75" y="-12" width="8" height="15" />
     </g>
   </g>
 </svg>
